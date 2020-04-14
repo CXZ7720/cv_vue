@@ -29,6 +29,32 @@
         <span class="due_text">2015.03 ~ Present</span>
       </p>
 
+      <h3 class="title" id="oss">🔥 Opensource Projcet Team 🔥</h3>
+      <div class="content-group">
+        <p class="sub_title">
+          ☕ Latte Code <a href="https://coinone.co.kr" target="_blank"><i class="fa fa-external-link icon"></i></a>
+        </p>
+        <p class="normal_text flex-box">
+          <span class="flex-grow1 role">Opensource development</span>
+          <span class="due_text">2020.03 ~ Present</span>
+        </p>
+        <ul>
+          <li>
+            <a href="https://zerogyun.dev/portfolio" target="_blank"> <i class="fa fa-github"></i> Yeonggyun Kim</a>
+          </li>
+          <li>
+            <a href="https://antsthatwander.github.io/" target="_blank"> <i class="fa fa-github"></i> Jonghyup Lim</a>
+          </li>
+          <li>
+            <a href="https://krumaska.github.io/" target="_blank"> <i class="fa fa-github"></i> Jinwoong Yoo</a>
+          </li>
+          <li>
+            <a href="https://hsmint.github.io/" target="_blank"> <i class="fa fa-github"></i> Sukmin Hong</a>
+          </li>
+        </ul>
+        <p>🚀🚀 You can find this page's source code at <a href="https://github.com/CXZ7720/cv_vue/tree/oss" target="_blank">"HERE"</a></p>
+      </div>
+
       <h3 class="title">Experiences</h3>
       <div class="content-group">
         <p class="sub_title">
@@ -295,5 +321,9 @@ footer {
 
   .divider {
     margin: 0 0.5em
+  }
+
+  #oss {
+    color: rgb(205, 129, 129);
   }
 </style>
