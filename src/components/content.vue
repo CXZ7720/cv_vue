@@ -32,7 +32,7 @@
       <h3 class="title" id="oss">🔥 Opensource Projcet Team 🔥</h3>
       <div class="content-group">
         <p class="sub_title">
-          ☕ Latte Code <a href="https://coinone.co.kr" target="_blank"><i class="fa fa-external-link icon"></i></a>
+          ☕ Latte Code <a href="https://github.com/LatteCode" target="_blank"><i class="fa fa-external-link icon"></i></a>
         </p>
         <p class="normal_text flex-box">
           <span class="flex-grow1 role">Opensource development</span>
@@ -52,7 +52,7 @@
             <a href="https://hsmint.github.io/" target="_blank"> <i class="fa fa-github"></i> Sukmin Hong</a>
           </li>
         </ul>
-        <p>🚀🚀 You can find this page's source code at <a href="https://github.com/CXZ7720/cv_vue/tree/oss" target="_blank">"HERE"</a></p>
+        <p>🚀🚀 You can find this page's source code at <a href="https://github.com/CXZ7720/cv_vue/tree/oss_test" target="_blank">"HERE"</a></p>
       </div>
 
       <h3 class="title">Experiences</h3>
