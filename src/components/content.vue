@@ -17,7 +17,7 @@
     </div>
     <p>
       Fullstack Web developer, Flutter developer.<br />
-      Love to cooperatie with people to solve problem.
+      Love to cooperate with people to solve problem.
     </p>
     <div class="content-area">
       <h3 class="title">Education</h3>
