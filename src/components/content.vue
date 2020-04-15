@@ -38,11 +38,7 @@
           <span class="flex-grow1 role">Technical Intern</span>
           <span class="due_text">2018.08</span>
         </p>
-        <ul>
-          <li>
-            Industry-University Cooperation project - Personal trading portfolio
-          </li>
-        </ul>
+        Industry-University Cooperation project - Personal trading portfolio
       </div>
       <div class="content-group">
         <p class="sub_title">
@@ -67,7 +63,7 @@
       <h3 class="title">Projects</h3>
       <div class="content-group">
         <p class="sub_title">
-          Bus Hanyang, 버스하냥 <a href="https://hubus.app" target="_blank"><i class="fa fa-external-link icon"></i></a>
+          Bus Hanyang, 버스하냥 <a href="https://hybus.app" target="_blank"><i class="fa fa-external-link icon"></i></a>
         </p>
         <p class="normal_text flex-box">
           <span class="flex-grow1 role">Project Manager, Frontend developer, Backend API developer, DevOps developer</span>
@@ -105,7 +101,7 @@
       <h3 class="title">Hornor and Awards</h3>
       <div class="content-group">
         <p class="sub_title">
-          Hanyang University SW/ICT Symposium<a href="https://hubus.app" target="_blank"><i class="fa fa-external-link icon"></i></a>
+          Hanyang University SW/ICT Symposium
         </p>
         <p class="normal_text flex-box">
           <span class="flex-grow1 role">Industry-Academic cooperation branch -  3rd position</span>
@@ -114,7 +110,7 @@
       </div>
       <div class="content-group">
         <p class="sub_title">
-          Hanyang University SW/ICT Symposium<a href="https://hubus.app" target="_blank"><i class="fa fa-external-link icon"></i></a>
+          Hanyang University SW/ICT Symposium
         </p>
         <p class="normal_text flex-box">
           <span class="flex-grow1 role">Venture Startup branch -  3rd position</span>
@@ -130,11 +126,7 @@
           <span class="flex-grow1 role">Jinsoo Han, Jino Park, Yeonggyun Kim, Sunghyun Cho</span>
           <span class="due_text">2018.06</span>
         </p>
-        <ul>
-          <li>
-            The Korean Institute of Information Scientists and Engineers, 한국정보과학회 학술발표논문집,<br>1834-1836(3 pages)
-          </li>
-        </ul>
+        <p>The Korean Institute of Information Scientists and Engineers, 한국정보과학회 학술발표논문집,<br>1834-1836(3 pages)</p>
       </div>
       <h3 class="title">Organizations</h3>
       <div class="content-group">
@@ -145,11 +137,7 @@
           <span class="flex-grow1 role">Member</span>
           <span class="due_text">2016.09 ~ Present</span>
         </p>
-        <ul>
-          <li>
-            <i>JARAM</i> is an academic club in College of Computing.
-          </li>
-        </ul>
+        <i>JARAM</i> is an academic club in College of Computing.
       </div>
       <div class="content-group">
         <p class="sub_title">
@@ -204,7 +192,6 @@ h3 {
   margin: 40px 0 0;
 }
 ul {
-  color: ;
   list-style-type: square;
   padding: 0;
   margin: 0;
