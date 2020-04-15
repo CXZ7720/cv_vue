@@ -12,7 +12,7 @@
       <span class="divider" style="width: 1px;">|</span>
       <span><a href="www.linkedin.com/in/zerogyun" target="_blank" class="top-link"><i class="fa fa-linkedin-square"></i> zerogyun</a> </span>
       <span class="divider" style="width: 1px;">|</span>
-      <span><a href="https://cutt.ly/zerogyun_cv" target="_blank" class="top-link"><i class="fa fa-file-text-o"></i> Downlod CV</a> </span>
+      <span><a href="https://cutt.ly/zerogyun_cv" target="_blank" class="top-link"><i class="fa fa-file-text-o"></i> Download CV</a> </span>
 
     </div>
     <p>
