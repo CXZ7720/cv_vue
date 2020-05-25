@@ -21,13 +21,28 @@
     </p>
     <div class="content-area">
       <h3 class="title">Education</h3>
-      <p class="sub_title">
-        B.S, Computer Science and Engineering
-      </p>
-      <p class="normal_text flex-box">
-        <span class="flex-grow1">Hanyang University ERICA</span>
-        <span class="due_text">2015.03 ~ Present</span>
-      </p>
+      <div class="content-group">
+        <p class="sub_title">
+          B.S, Computer Science and Engineering
+        </p>
+        <p class="normal_text flex-box">
+          <span class="flex-grow1">Hanyang University ERICA <i>(Ansan, South Korea)</i></span>
+          <span class="due_text">2015.03 ~ Present</span>
+        </p>
+      </div>
+      <div class="content-group">
+        <p class="sub_title">
+          Summer Session
+        </p>
+        <p class="normal_text flex-box">
+          <span class="flex-grow1">EPITA Le Kremlin-Bicêtre campus <i>(Paris, France)</i></span>
+          <span class="due_text">2019.07</span>
+        </p>
+        <p class="normal_text flex-box">
+          <span class="flex-grow1">Cyber Security & IT track</span>
+        </p>
+      </div>
+
 
       <h3 class="title">Experiences</h3>
       <div class="content-group">
@@ -95,6 +110,46 @@
           </li>
           <li>
             Android Application(Flutter)
+          </li>
+        </ul>
+      </div>
+      <div class="content-group">
+        <p class="sub_title">
+          MediChecker <a href="https://youtu.be/p-NQVAKxQ0o" target="_blank"><i class="fa fa-external-link icon"></i></a>
+        </p>
+        <p class="normal_text flex-box">
+          <span class="flex-grow1 role">Android Developer</span>
+          <span class="due_text">2020.02 ~ 2020.04</span>
+        </p>
+        <ul>
+          <li>
+            Project as 'DSC Sollution Challenge 2020'
+          </li>
+          <li>
+            Checking interactions between multiple medicines, it helps to take medicine safely.
+          </li>
+          <li>
+            Android Application(Kotlin)
+          </li>
+        </ul>
+      </div>
+      <div class="content-group">
+        <p class="sub_title">
+          TradeDog
+        </p>
+        <p class="normal_text flex-box">
+          <span class="flex-grow1 role">Frontend Developer</span>
+          <span class="due_text">2019.09 ~ Present</span>
+        </p>
+        <ul>
+          <li>
+            University-Industry co-operation project(<a href="https://coinone.co.kr" target="_blank">Coinone</a>, <a href="https://www.hanyang.ac.kr" target="_blank">Hanyang University ERICA</a>)
+          </li>
+          <li>
+            Crypto currency trading Portfolio
+          </li>
+          <li>
+            WEB(Vue.JS)
           </li>
         </ul>
       </div>
